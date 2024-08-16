@@ -1,0 +1,14 @@
+{
+  "name": "bcb_ptax_rates",
+  "version": "1.0.0",
+  "description": "CAP Application to retrieve ptax rates from Banco Central do Brasil",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
